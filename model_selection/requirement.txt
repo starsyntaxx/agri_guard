@@ -1,0 +1,11 @@
+granite-tsfm==0.3.6
+
+torch
+transformers
+huggingface-hub
+
+numpy
+pandas
+scikit-learn
+matplotlib
+datasets
